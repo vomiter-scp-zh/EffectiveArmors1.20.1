@@ -1,0 +1,9 @@
+{
+  "armor": [
+    "4x #effectivearmors:golden"
+  ],
+  "effects": [
+    { "id": "minecraft:fire_resistance", "amplifier": 1, "ambient": false, "show_particles": true, "show_icon": true }
+  ],
+  "match_all": true
+}

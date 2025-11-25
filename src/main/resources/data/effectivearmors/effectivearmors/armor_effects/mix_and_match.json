@@ -1,0 +1,11 @@
+{
+  "armor": [
+    "#effectivearmors:test_helmets",
+    "minecraft:iron_chestplate",
+    "minecraft:golden_leggings"
+  ],
+  "effects": [
+    { "id": "minecraft:luck", "amplifier": 1, "ambient": false, "show_particles": true, "show_icon": true }
+  ],
+  "match_all": true
+}
